@@ -1,0 +1,24 @@
+{
+  "group": "tfd",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "tfd:cookie_block"
+    },
+    "1": {
+      "item": "tfd:cookie_block"
+    },
+    "2": {
+      "item": "tfd:cookie_block"
+    }
+  },
+  "result": {
+    "item": "tfd:cookie_dimension",
+    "count": 1
+  }
+}

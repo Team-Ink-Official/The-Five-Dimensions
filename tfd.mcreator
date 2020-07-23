@@ -1,0 +1,75 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "CookieBlock",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cookie_block"
+    },
+    {
+      "name": "CookieBiome",
+      "type": "biome",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cookie_biome"
+    },
+    {
+      "name": "CookieDimension",
+      "type": "dimension",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cookie_dimension"
+    },
+    {
+      "name": "CookieBlockCraft",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cookie_block_craft"
+    },
+    {
+      "name": "CookiePortalIgnitorCraft",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cookie_portal_ignitor_craft"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.tfd.cookie_block": "Cookie Block",
+      "item.tfd.cookie_dimension": "Cookie dimesion portal igniter"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "tfd",
+    "modName": "The Five Dimensions",
+    "version": "1.0.0",
+    "author": "heath, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.tfd",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000321322
+}

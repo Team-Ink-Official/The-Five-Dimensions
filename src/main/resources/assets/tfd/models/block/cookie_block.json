@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tfd:blocks/cookie_block",
+    "up": "tfd:blocks/cookie_block",
+    "north": "tfd:blocks/cookie_block",
+    "east": "tfd:blocks/cookie_block",
+    "south": "tfd:blocks/cookie_block",
+    "west": "tfd:blocks/cookie_block",
+    "particle": "tfd:blocks/cookie_block"
+  }
+}
