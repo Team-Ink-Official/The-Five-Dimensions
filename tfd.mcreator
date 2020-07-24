@@ -45,6 +45,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "cookie_portal_ignitor_craft"
+    },
+    {
+      "name": "CookieDimensionCreativeTab",
+      "type": "tab",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cookie_dimension_creative_tab"
     }
   ],
   "variable_elements": [],
@@ -52,6 +61,7 @@
   "language_map": {
     "en_us": {
       "block.tfd.cookie_block": "Cookie Block",
+      "itemGroup.tabcookie_dimension_creative_tab": "Cookie Dimension",
       "item.tfd.cookie_dimension": "Cookie dimesion portal igniter"
     }
   },
